@@ -79,7 +79,7 @@ margin-top: 50px;
 }
 #thumb{
 	float: left;
-	padding-left: 10px;
+
 }
 #thumb-one img{
 	height: 80px;
@@ -99,6 +99,7 @@ margin-top: 50px;
 #thumb-one, #thumb-two, #thumb-three{
 	float: left;
 	clear: left;
+	padding-left: 20px;
 }
 #primary-body{
 	max-width: 1000px;
