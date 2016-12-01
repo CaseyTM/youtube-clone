@@ -85,7 +85,9 @@ margin-top: 50px;
 	height: 80px;
 	float: left;
 	padding-bottom: 15px;
-
+}
+#thumb-one{
+	padding-top: 15px;
 }
 #thumb-two img{
 	height: 80px;
