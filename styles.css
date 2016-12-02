@@ -109,7 +109,8 @@ margin-top: 50px;
 	margin: auto;
 }
 #big-right-video img{
-width: 70%;
+width: 80%;
+padding-left: 15px;
 }
 #desc-one{
 	max-width: 160px;
@@ -142,7 +143,8 @@ float: left;
 	font-family: arial;
 }
 #big-right-desc{
-	max-width: 180px;
+	max-width: 245px;
+	padding-left: 15px;
 }
 html{
 	background-color: #f1f1f1;
